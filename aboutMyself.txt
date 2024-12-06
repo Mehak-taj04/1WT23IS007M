@@ -6,4 +6,5 @@ Section:A
 Branch:Information Science 
 Year of Admission:2023
 College Name:GITW
+UG Degree:Information Science and Engineering
 
