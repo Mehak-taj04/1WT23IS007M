@@ -6,6 +6,7 @@ Subject Name:Project Management With GIT
 Subject Code:BCS358C
 Academic Year:2024-25
 Mobile No:8792060524
-Email ID:tajmehak90@gmail.com
+My Date of Joining to GITW:5th oct-2023
+
 
 
